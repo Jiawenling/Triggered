@@ -84,3 +84,6 @@
 /Users/kristieling/Triggered/triggeredapi/obj/Debug/net7.0/ref/triggeredapi.dll
 /Users/kristieling/Triggered/triggeredapi/bin/Debug/net7.0/AutoMapper.dll
 /Users/kristieling/Triggered/triggeredapi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/kristieling/Triggered/triggeredapi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/kristieling/Triggered/triggeredapi/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/kristieling/Triggered/triggeredapi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll

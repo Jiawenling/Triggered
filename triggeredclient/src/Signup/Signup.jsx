@@ -34,7 +34,7 @@ function Signup() {
         })
         .catch(function (error) {
             console.log(error);
-            setInputError("An error occured. Please try again later.")
+            setInputError(error.response.data)
         });
     }
 

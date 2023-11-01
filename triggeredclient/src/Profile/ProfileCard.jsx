@@ -7,7 +7,7 @@ function ProfileCard({novel, handleDelete}) {
   return (
     <div className='profilecard-container'>
     <NovelCard novel={novel}></NovelCard>
-    <img className='h-6 w-6' src={Bin} onClick={()=> handleDelete(novel.id)}></img>
+    <img id='bin' className='h-6 w-6' src={Bin} onClick={()=> handleDelete(novel.id)}></img>
   </div>
   )
 }

@@ -21,6 +21,7 @@
     display: flex;
     gap: 0.5rem;
     align-self: center;
+    width: 60%;
 }
 
 @media screen and (max-width: 768px){
@@ -43,4 +44,3 @@
 .search-input:active{
     border-color: solid red 2px;
 }
-

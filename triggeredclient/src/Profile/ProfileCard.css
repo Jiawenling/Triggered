@@ -1,17 +1,26 @@
-
-
 .profilecard-container {
     display: flex;
     flex-wrap: nowrap;
-    gap: 3rem;
+    width: 100vw;
+    justify-content: center;
+}
+
+@media screen and (max-width: 763px) {
+    .profilecard-container{
+        margin-left: 3rem;
+        justify-content: space-between;
+    }
+    
 }
 
 .profilecard-container .result-details{
-    width: 70%;
-    margin-left: 1rem;
+    width: 75%;
 }
 
 .profilecard-container img {
     align-self: center;
+}
+
+#bin{
     cursor: pointer;
 }
